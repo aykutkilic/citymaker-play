@@ -1,0 +1,29 @@
+{
+  "format_version": 1,
+  "name": "Istanbul core",
+  "projection": {
+    "zone": 35,
+    "north": true
+  },
+  "origin": {
+    "easting": 667136.0,
+    "northing": 4542976.0
+  },
+  "tile_size": 512.0,
+  "terrain": {
+    "samples": 33,
+    "halo": 1,
+    "tiles": {
+      "min_x": -12,
+      "min_y": -12,
+      "max_x": 11,
+      "max_y": 11
+    }
+  },
+  "sea_level": 0.0,
+  "sea_depth": 6.0,
+  "attribution": [
+    "Elevation: produced using Copernicus WorldDEM-30 © DLR e.V. 2010-2014 and © Airbus Defence and Space GmbH 2014-2018 provided under COPERNICUS by the European Union and ESA; all rights reserved.",
+    "Streets: © OpenStreetMap contributors, available under the Open Database Licence."
+  ]
+}
